@@ -1,0 +1,2 @@
+[build]
+  command = "your-build-command-here"

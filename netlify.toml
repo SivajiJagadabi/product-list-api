@@ -1,2 +1,8 @@
 [build]
   command = "your-build-command-here"
+
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
